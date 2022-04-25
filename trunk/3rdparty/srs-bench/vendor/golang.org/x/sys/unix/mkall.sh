@@ -5,7 +5,7 @@
 
 # This script runs or (given -n) prints suggested commands to generate files for
 # the Architecture/OS specified by the GOARCH and GOOS environment variables.
-# See REMDME.md for more information about how the build system works.
+# See README.md for more information about how the build system works.
 
 GOOSARCH="${GOOS}_${GOARCH}"
 
